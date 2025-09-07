@@ -30,7 +30,14 @@ yarn build:ssr
 yarn build:spa
 ```
 
-Для генерации SSR- и SPA-билдов соответственно
+Для генерации SSR- и SPA-билдов соответственно, а затем
+
+```bash
+yarn start:ssr
+yarn preview:spa
+```
+
+для их запуска
 
 ### Содержание
 
